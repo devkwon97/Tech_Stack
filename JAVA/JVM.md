@@ -1,4 +1,4 @@
-##JVM(Java Virtual Machine)
+## JVM(Java Virtual Machine)
 
 ### 1.JVM이란?
 * JVM은 자바를 실행하기 위한 가상 컴퓨터이다.
