@@ -3,9 +3,10 @@
 ### 1.JVM이란?
 * JVM은 자바를 실행하기 위한 가상 컴퓨터이다.
 * JVM은 Java와 Os 사이에서 중개자 역할을 수행하여 재사용이 가능하다.
-* JVM은 `메모리관리` 와 `Garbage Collection`을 수행한다.
-<br>
-### 2.JVM의 구조
+* JVM은 `메모리관리` 와 `Garbage Collection`을 수행한다.  
+
+### 2.JVM의 구조  
+
 <img src="../resources/jvm.png" width="65%" height="50%" title="제목" alt=""/> 
 
 #### 클래스 로더(Class Loader)
