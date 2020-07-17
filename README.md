@@ -2,7 +2,7 @@
 
 ##### 개발자로서 성장을 위한 CS 지식을 정리하기 :blush:
 
-## 📘 Language
+## 📙 Language
 * [자바특징](/JAVA/Java.md)
 * [JVM](/JAVA/Jvm.md)
 * [GC]
