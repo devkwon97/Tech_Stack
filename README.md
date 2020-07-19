@@ -38,3 +38,10 @@
 * [BFS]
 * [DFS]
 
+### Hash
+
+* [해시 알고리즘]
+
+## 📔 Data Base
+
+* [NoSQL & RDBMS]
