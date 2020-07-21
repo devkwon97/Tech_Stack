@@ -45,3 +45,11 @@
 ## 📔 Data Base
 
 * [NoSQL & RDBMS]
+
+## 📗 Network
+
+* [OSI 7 계층]
+* [HTTP Get & Post]
+* [TCP & UDP]
+* [HTTP vs HTTPS]
+* [쿠키(cokkie)와 세션(session)]
