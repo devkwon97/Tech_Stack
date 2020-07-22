@@ -4,12 +4,13 @@
 
 ## 📙 Language
 * [자바특징](/JAVA/Java.md)
+* [객체지향 특징](/JAVA/Oop.md)
 * [JVM](/JAVA/Jvm.md)
-* [GC]
-* [클래스와 객체]
-* [오버로딩과 오버라이딩]
-* [상속]
-* [접근 제어자]
+* [GC](/JAVA/Garbage_Collection.md)
+* [클래스와 객체](/JAVA/Class_Object.md)
+* [오버로딩과 오버라이딩](/JAVA/Overloading.md)
+* [상속](/JAVA/inheritance.md)
+* [접근 제어자](/JAVA/modifier.md)
 * [다형성]
 * [제네릭스]
 * [람다]
