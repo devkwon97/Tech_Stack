@@ -11,9 +11,9 @@
 * [오버로딩과 오버라이딩](/JAVA/Overloading.md)
 * [상속](/JAVA/inheritance.md)
 * [접근 제어자](/JAVA/modifier.md)
-* [다형성]
-* [제네릭스]
-* [람다]
+* [다형성](/JAVA/polymorphism.md)
+* [제네릭스](/JAVA/Generics.md)
+* [람다](/JAVA/Lambda.md)
 
 ## 📕 Data Structure
 * [자료구조]
