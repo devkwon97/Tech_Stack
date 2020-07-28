@@ -49,7 +49,7 @@
 
 ## 📗 Network
 
-* [OSI 7 계층](/JAVA/Osi7.md)
+* [OSI 7 계층](/Network/Osi7.md)
 * [HTTP Get & Post]
 * [TCP & UDP]
 * [HTTP vs HTTPS]
