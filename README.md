@@ -62,3 +62,4 @@
 * [SQL Injection 공격]
 * [CSRF 공격]
 * [XSS 공격]
+* [브루트포스 공격]
